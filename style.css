@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container
+{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(101, 27, 174);
+}
+.header-1
+{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    padding-left: 20px;
+    padding-top: 20px;
+    text-decoration: none;
+}
+.head-top
+{
+    display: flex;
+    align-items: center;
+    gap: 150px;
+}
+.search
+{
+    align-items: center;
+    padding-left: 20px;
+    padding-top: 20px;
+    text-decoration: none;
+}
+.icons-right
+{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    padding-left: 20px;
+    padding-top: 20px;
+    text-decoration: none;
+    text-align: right;
+}
+.left-list
+{
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    height: 500px;
+}
+.list
+{
+    overflow: scroll;
+    margin-top: 20px;
+    width: 300px;
+}
+.no-style
+{
+    text-decoration: none;
+}
+.head1
+{
+margin-bottom: 20px;
+margin-top: 20px;
+}
+.section-3
+{
+    display: flex;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    width: 400px;
+}
+.mid-content
+{
+    margin-top: 40px;
+    margin-left: 40px;
+    width: 750px;
+}
+.main-cont
+{
+    display: flex;
+}
+.num-list
+{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.right-side
+{
+    width: 250px;
+    height: 437px;
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-left: 105px;
+    margin-top: 40px;
+    margin-right: 10px;
+}
+.right
+{
+    margin-bottom: 10px;
+}
+.related-li-item1
+{
+    margin-left: 30px;
+}
